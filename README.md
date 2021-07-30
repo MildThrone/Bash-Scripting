@@ -1,4 +1,4 @@
-## A Quick Guide to Bash Scripting
+# A Quick Guide to Bash Scripting
 ## Introduction
 Scripting is an essential skill to hackers and anyone else who wants to automate a repetitive process. It makes it easier to have solutions without needing to code a whole program while still being powerful and effective.
 This tutorial is aimed at introducing the fundamentals of scripting in Bash and is designed with beginners in mind.
